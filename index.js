@@ -1,6 +1,1 @@
-
-
-for(let i = 0;; i++){
-  console.log(i)
-  if( i > 5) break
-} 
+document.getElementById("wrapper").innerHTML = "<h1>Hello World</h1>";
